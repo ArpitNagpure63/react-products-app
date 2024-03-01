@@ -1,0 +1,19 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+
+.input-field {
+    width: 350px;
+    height: 40px;
+    margin: 20px;
+    padding: 0px 12px;
+}
+
+.login-cta {
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+}

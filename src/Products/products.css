@@ -1,0 +1,34 @@
+.products-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-wrapper {
+    box-shadow: 0 4px 8px 0 rgba(0,0,1,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    background: white;
+    color: black;
+    margin: 16px;
+    padding: 12px;
+}
+ 
+.navigation-wrapper {
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.navigation-button {
+    width: 180px;
+    height: 30px;
+    margin: 20px;
+}
+
+.error-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
