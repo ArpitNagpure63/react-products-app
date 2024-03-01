@@ -1,6 +1,12 @@
 # react-products-app
 React app that shows list of products based on user login.
 
+# Installation
+npm I
+
+# Start App
+npm run start
+
 To complete the following task we will be making use of the [dummyJSON](https://dummyjson.com/docs) API, in particular the following will be of use:
 
 * [Login user and get token](https://dummyjson.com/docs/auth#login)
